@@ -62,8 +62,8 @@ I built this because I've lived both sides. Know what you're walking into.
 
 ## Experience
 
-**Apollo Labs (Apollo.io) — Founding AE, AI Outbound Division** | Sept 2024 – June 2025
-Recruited post-Series D ($250M / $1.6B valuation) to build and run Apollo's AI-powered outbound managed services division from zero. Full-cycle: quota through close, 2 direct reports, GTM systems build.
+**Sr. Sales Development Manager, AutoSDR (Apollo Labs Division) L6 — Apollo.io** | Sept 2024 – June 2025
+Recruited post-Series D ($250M / $1.6B valuation) to build and run Apollo's AI-powered outbound managed services division from zero. Full-cycle: quota through close, 2 direct reports, GTM systems build. Apollo Labs = Apollo's AI-powered outbound managed services division. Founding GTM role, Full-Cycle AE function.
 - $1M+ ARR in under 10 months. Personally drove $130K revenue across 4 new logos and 2 renewals.
 - $2.5M+ self-sourced pipeline. 32 meetings to 20 qualified opps to 4 closed. 20% close rate. 90% meeting-held rate.
 - Closed: Rillet ERP (Sequoia $25M Series A), Goodpath ($18M Mass Mutual Series A), Bellwether Coffee, The Avid Group.
