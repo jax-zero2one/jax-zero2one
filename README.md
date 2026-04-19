@@ -55,6 +55,16 @@ I built this because I've lived both sides. Know what you're walking into.
 
 ---
 
+### Interactive Resume
+
+Not a PDF. Not a LinkedIn scroll. A live web experience built around the full career story — numbers, logos, proof points, and the GTM engineering layer most AEs don't have.
+
+If you're going to take 60 seconds to look at a candidate, this is a better 60 seconds.
+
+[View Resume](https://jaxlieuresume.lovable.app/)
+
+---
+
 ## Other Builds
 
 **Account Intelligence 360** — Enriches any company domain via Apollo API + Claude and renders an interactive org diagram. Pre-call intel at 10x speed.
