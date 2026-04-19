@@ -4,13 +4,12 @@
 
 **Full-Cycle B2B SaaS AE + GTM Engineer**
 
-Full-cycle account executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now vibe-coding tools for the sales problems I lived.
+Full-cycle Account Executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now vibe-coding tools for the sales problems I lived.
 
 Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engineer roles at Series A–C SaaS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaxlieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaxlieu)
 [![TrackRec](https://img.shields.io/badge/TrackRec-Validated-00C896?style=flat-square&logoColor=white)](https://trackrec.co/jaxlieu)
-[![Website](https://img.shields.io/badge/salesdevunite.com-111111?style=flat-square&logo=safari&logoColor=white)](https://salesdevunite.com)
 
 </div>
 
@@ -93,12 +92,6 @@ Joined a Series B CMMS SaaS startup to build Fortune 100 pipeline.
 - Promoted to Strategic Key BDR after 5 months. ACV jumped from $15–20K to $50–75K.
 - $1.2M+ pipeline sourced. 120%+ MoM attainment. #1 BDR Award Nov '21 (200%+ to plan).
 - Sourced McDonald's USA ($500K ARR uplift), Coca-Cola, American Sugar, GAF Corp.
-
-**Comcast / Xfinity — Retail Sales Consultant** | Aug 2025 – Present
-Bridge role between SaaS cycles. Treated every quota like a SaaS number.
-- Nov '25: 120% to plan | #1 IoT in-store | Top 3 PNW region across 250+ reps | tNPS 87.5% vs 70% benchmark
-- Dec '25: 156.7% to plan | earned XFM Fifty's Club
-- Jan–Feb '26: 115% / 141.7% | 1st Place Peacock Award
 
 ---
 
