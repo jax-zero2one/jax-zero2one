@@ -1,3 +1,5 @@
+<div align="center">
+
 # Jax Lieu
 
 **Full-Cycle B2B SaaS AE + GTM Engineer**
@@ -5,6 +7,12 @@
 Full-cycle account executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now vibe-coding tools for the sales problems I lived.
 
 Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engineer roles at Series A–C SaaS.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaxlieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaxlieu)
+[![TrackRec](https://img.shields.io/badge/TrackRec-Validated-00C896?style=flat-square&logoColor=white)](https://trackrec.co/jaxlieu)
+[![Website](https://img.shields.io/badge/salesdevunite.com-111111?style=flat-square&logo=safari&logoColor=white)](https://salesdevunite.com)
+
+</div>
 
 ---
 
@@ -96,11 +104,38 @@ Bridge role between SaaS cycles. Treated every quota like a SaaS number.
 
 ## Stack
 
-**Sales:** MEDDPICC, GAP Selling, Challenger Sale, Value-Based Selling, Command of the Message
+<div align="center">
 
-**Sales Tools:** Salesforce, HubSpot, Apollo.io, Outreach, Clay, ZoomInfo, Gong, DocuSign
+**Sales Methodology**
 
-**Builder:** Claude Code, Next.js, React, Supabase, n8n, Airtable, Stripe, Tailwind, TypeScript
+![MEDDPICC](https://img.shields.io/badge/MEDDPICC-111827?style=flat-square&logoColor=white)
+![GAP Selling](https://img.shields.io/badge/GAP_Selling-111827?style=flat-square&logoColor=white)
+![Challenger Sale](https://img.shields.io/badge/Challenger_Sale-111827?style=flat-square&logoColor=white)
+![Command of the Message](https://img.shields.io/badge/Command_of_the_Message-111827?style=flat-square&logoColor=white)
+
+**Sales Tools**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-7C3AED?style=flat-square&logoColor=white)
+![Outreach](https://img.shields.io/badge/Outreach-5951FF?style=flat-square&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-111827?style=flat-square&logoColor=white)
+![ZoomInfo](https://img.shields.io/badge/ZoomInfo-F26522?style=flat-square&logoColor=white)
+![Gong](https://img.shields.io/badge/Gong-000000?style=flat-square&logoColor=white)
+
+**Builder**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+</div>
 
 ---
 
