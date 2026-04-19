@@ -4,7 +4,7 @@
 
 **Full-Cycle B2B SaaS AE + GTM Engineer**
 
-Full-cycle Account Executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now vibe-coding tools for the sales problems I lived.
+Full-cycle Account Executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now shipping tools for the sales problems I lived.
 
 Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engineer roles at Series A–C SaaS.
 
@@ -37,7 +37,7 @@ Most reps discount to close. This tool trains you not to.
 
 Built on Todd Caponi's Four Levers framework. Practice price, term, scope, and timing in a live simulator before you're across the table from a real buyer. Each lever moves. Each trade-off is scored. The goal: close at number, not below it.
 
-Inspired by Todd Caponi. Vibe-coded from scratch.
+Inspired by Todd Caponi. Shipped from scratch.
 
 [Launch Simulator](https://sdu-levers.lovable.app/)
 
