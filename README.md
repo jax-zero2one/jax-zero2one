@@ -9,7 +9,7 @@ Full-cycle Account Executive who builds the AI tooling that scales the motion. F
 Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engineer roles at Series A–C SaaS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaxlieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaxlieu)
-[![TrackRec](https://img.shields.io/badge/TrackRec-Validated-00C896?style=flat-square&logoColor=white)](https://trackrec.co/jaxlieu)
+[![TrackRec](https://img.shields.io/badge/TrackRec-Validated-00C896?style=flat-square&logoColor=white)](https://app.trackrec.co/jaxlieu)
 
 </div>
 
@@ -144,7 +144,7 @@ Todd Caponi — Four Levers Negotiation Framework
 
 ## References
 
-Matt Curl, CEO of Apollo.io — personal reference, TrackRec validated: trackrec.co/jaxlieu
+Matt Curl, CEO of Apollo.io — personal reference, TrackRec validated: app.trackrec.co/jaxlieu
 
 Senior GTM leaders available from UpKeep, CIENCE, and Swif.ai on request.
 
