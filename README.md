@@ -6,7 +6,7 @@
 
 Full-cycle Account Executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now shipping tools for the sales problems I lived.
 
-Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engineer roles at Series A–C SaaS.
+Based in Greater Seattle. Building in public. Open to the right founding role at Series A–C SaaS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaxlieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaxlieu)
 [![TrackRec](https://img.shields.io/badge/TrackRec-Validated-00C896?style=flat-square&logoColor=white)](https://app.trackrec.co/jaxlieu)
@@ -29,11 +29,8 @@ Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engi
 |--------|--------|
 | Career ARR closed | $1.3M+ |
 | Pipeline generated (career) | $20M+ |
-| Apollo Labs: 0 to ARR | $1M in 10 months |
-| Self-sourced pipeline (Apollo) | $2.5M+ |
 | ARR growth at Swif.ai | 200% ($35K to $110K) |
 | #1 ranking | Top Revenue Driver, CIENCE (1 of 10) |
-| Pipeline sourced at UpKeep | $1.2M+ |
 
 ---
 
@@ -65,7 +62,7 @@ I built this because I've lived both sides. Know what you're walking into.
 
 ### Interactive Resume
 
-Not a PDF. Not a LinkedIn scroll. A live web experience built around the full career story — numbers, logos, proof points, and the GTM engineering layer most AEs don't have.
+Not a PDF. Not a LinkedIn scroll. A live web experience built around the full career story: numbers, logos, proof points, and the GTM engineering layer most AEs don't have.
 
 If you're going to take 60 seconds to look at a candidate, this is a better 60 seconds.
 
@@ -75,11 +72,9 @@ If you're going to take 60 seconds to look at a candidate, this is a better 60 s
 
 ## Other Builds
 
-**Account Intelligence 360** — Enriches any company domain via Apollo API + Claude and renders an interactive org diagram. Pre-call intel at 10x speed.
+**Account Intelligence 360** — Enriches any company domain via Apollo API + Claude and renders an interactive org diagram. Pre-call intel at 10x speed. In active development.
 
 **Apollo PowerUp Prompt Engine** — Multi-file outreach system with conditional routing by title and headcount, OPS framework, 120-word cap. Used to scale Apollo Labs outbound.
-
-**Job Search Automation Pipeline** — Slack to n8n to Claude Sonnet to Airtable CRM to Slack briefs. End-to-end, operational.
 
 **Link Chart Analysis** — React-based relationship mapping tool with LinkedIn import and AI pattern analysis. Surfaces trust networks before the first call.
 
@@ -102,12 +97,7 @@ Full story: [Interactive Resume](https://jaxlieuresume.lovable.app/)
 
 <div align="center">
 
-**Sales Methodology**
-
-![MEDDPICC](https://img.shields.io/badge/MEDDPICC-111827?style=flat-square&logoColor=white)
-![GAP Selling](https://img.shields.io/badge/GAP_Selling-111827?style=flat-square&logoColor=white)
-![Challenger Sale](https://img.shields.io/badge/Challenger_Sale-111827?style=flat-square&logoColor=white)
-![Command of the Message](https://img.shields.io/badge/Command_of_the_Message-111827?style=flat-square&logoColor=white)
+**Sales Methodology:** MEDDPICC · GAP Selling · Challenger Sale · Command of the Message
 
 **Sales Tools**
 
@@ -147,8 +137,6 @@ Todd Caponi — Four Levers Negotiation Framework
 
 ## References
 
-Matt Curl, CEO of Apollo.io — personal reference, TrackRec validated: app.trackrec.co/jaxlieu
+Matt Curl, CEO of Apollo.io — personal reference.
 
 Senior GTM leaders available from UpKeep, CIENCE, and Swif.ai on request.
-
-linkedin.com/in/jaxlieu
