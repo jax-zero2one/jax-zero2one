@@ -4,7 +4,7 @@
 
 **Full-Cycle B2B SaaS AE + GTM Engineer**
 
-Full-cycle Account Executive who builds the AI tooling that scales the motion. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now shipping tools for the sales problems I lived.
+Account Executive who ships the tools most AEs pay vendors for. Founded the outbound division at Apollo Labs from zero to $1M ARR in 10 months. $4M+ self-sourced pipeline. $1.3M+ ARR closed. Now shipping tools for the sales problems I lived.
 
 Based in Greater Seattle. Building in public. Open to the right founding role at Series A–C SaaS.
 
@@ -52,7 +52,7 @@ Inspired by Todd Caponi. Shipped from scratch.
 
 Most founding AE roles are traps. No inbound. No brand. No product-market fit. A quota written by someone who's never carried one.
 
-This tool scores the opportunity before you sign the offer. Input what you know: funding stage, current ARR, customer count, runway, inbound-to-outbound ratio, upside structure, accelerators, and red flags. Get a reality score and a straight read on whether this is a zero-to-one opportunity or a zero-to-zero.
+This tool scores the opportunity before you sign the offer. Eight inputs. One score. Know if you're walking into a zero-to-one or a zero-to-zero before you commit.
 
 I built this because I've lived both sides. Know what you're walking into.
 
@@ -64,7 +64,7 @@ I built this because I've lived both sides. Know what you're walking into.
 
 Not a PDF. Not a LinkedIn scroll. A live web experience built around the full career story: numbers, logos, proof points, and the GTM engineering layer most AEs don't have.
 
-If you're going to take 60 seconds to look at a candidate, this is a better 60 seconds.
+Most candidates send a PDF. This is what shipped instead.
 
 [View Resume](https://jaxlieuresume.lovable.app/)
 
@@ -137,6 +137,6 @@ Todd Caponi — Four Levers Negotiation Framework
 
 ## References
 
-Matt Curl, CEO of Apollo.io — personal reference.
+Matt Curl, CEO of Apollo.io. He'll pick up the phone.
 
 Senior GTM leaders available from UpKeep, CIENCE, and Swif.ai on request.
