@@ -11,6 +11,14 @@ Based in Greater Seattle. Available for Mid-Market AE, Founding AE, and GTM Engi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaxlieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaxlieu)
 [![TrackRec](https://img.shields.io/badge/TrackRec-Validated-00C896?style=flat-square&logoColor=white)](https://app.trackrec.co/jaxlieu)
 
+---
+
+**3 Series A raises fueled. $57M+ total. One operator.**
+
+| Rillet ERP | Goodpath | Overstory |
+|:---:|:---:|:---:|
+| $25M · Sequoia | $18M · Mass Mutual | $14M · B Capital |
+
 </div>
 
 ---
