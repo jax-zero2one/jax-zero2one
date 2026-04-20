@@ -87,29 +87,14 @@ If you're going to take 60 seconds to look at a candidate, this is a better 60 s
 
 ## Experience
 
-**Sr. Sales Development Manager, AutoSDR (Apollo Labs Division) L6 — Apollo.io** | Sept 2024 – June 2025
-Recruited post-Series D ($250M / $1.6B valuation) to build and run Apollo's AI-powered outbound managed services division from zero. Full-cycle: quota through close, 2 direct reports, GTM systems build. Apollo Labs = Apollo's AI-powered outbound managed services division. Founding GTM role, Full-Cycle AE function.
-- $1M+ ARR in under 10 months. Personally drove $130K revenue across 4 new logos and 2 renewals.
-- $2.5M+ self-sourced pipeline. 32 meetings to 20 qualified opps to 4 closed. 20% close rate. 90% meeting-held rate.
-- Closed: Rillet ERP (Sequoia $25M Series A), Goodpath ($18M Mass Mutual Series A), Bellwether Coffee, The Avid Group.
+| Company | Role | Headline |
+|---------|------|----------|
+| Apollo Labs (Apollo.io) | Founding AE, AutoSDR L6 | $1M ARR in 10 months |
+| Swif.ai (YC W24) | Head of Sales, Founding AE | 200% ARR growth |
+| CIENCE | Mid-Market AE | #1 Revenue Driver (1 of 10) |
+| UpKeep | Strategic BDR | $1.2M+ pipeline sourced |
 
-**Swif.ai (YC W24) — Head of Sales, Founding AE** | Jan 2024 – Sept 2024
-Built the sales motion from scratch at a YC-backed MDM SaaS startup.
-- Grew ARR 200% — $35K to $110K. First-ever six-figure run rate. Turned company cash-flow positive.
-- Reduced sales cycle 79% via a 5-stage repeatable GTM system. 30%+ win rate.
-- Closed: Patreon, TrustRadius, Salt Labs (acq. Chime), Dots (YC).
-
-**CIENCE — Mid-Market Account Manager** | June 2022 – Aug 2023
-Poached to grow a $1M book of business at a $40M ARR bootstrapped GTM platform.
-- #1 Top Revenue Driver (1 of 10). $150K closed/won in a single month (March 2023).
-- $450K+ revenue driven. 60% retention vs 30% team benchmark. 2x industry counterparts on $720K quota.
-- Closed: Alkami Technologies, Overstory ($14M B Capital Series A), Mantis Innovation, Distillery.
-
-**UpKeep — Strategic BDR, Key Accounts** | Sept 2021 – June 2022
-Joined a Series B CMMS SaaS startup to build Fortune 100 pipeline.
-- Promoted to Strategic Key BDR after 5 months. ACV jumped from $15–20K to $50–75K.
-- $1.2M+ pipeline sourced. 120%+ MoM attainment. #1 BDR Award Nov '21 (200%+ to plan).
-- Sourced McDonald's USA ($500K ARR uplift), Coca-Cola, American Sugar, GAF Corp.
+Full story: [Interactive Resume](https://jaxlieuresume.lovable.app/)
 
 ---
 
