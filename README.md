@@ -125,6 +125,18 @@ Full story: [Interactive Resume](https://jaxlieuresume.lovable.app/)
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jax-zero2one&theme=dark&ring=F0B429&fire=F0B429&currStreakLabel=F0B429&sideLabels=F0B429&dates=FFFFFF&border=30363d)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jax-zero2one&color=F0B429&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
 ## Education + Training
 
 California State University, Dominguez Hills — B.S. Business Administration, 2018
