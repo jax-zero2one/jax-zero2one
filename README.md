@@ -82,12 +82,12 @@ Most candidates send a PDF. This is what shipped instead.
 
 ## Experience
 
-| Company | Role | Headline |
-|---------|------|----------|
-| Apollo Labs (Apollo.io) | Founding Sr. AE + GTME, Apollo Labs Division (L6) | 0 to 1M <10 months |
-| Swif.ai (YC W24) | Head of Sales (Founding AE) | 200% ARR growth |
-| CIENCE | Mid-Market Account Manager | #1 Revenue Driver (1 of 10) |
-| UpKeep | Strategic BDR | $1.2M+ pipeline sourced |
+| Company | Role | Result |
+|---------|------|--------|
+| **Apollo Labs** · Apollo.io<br><sub>Series D · $100M raised · $1.6B valuation · First GTM unicorn of 2023</sub> | Founding Sr. AE + GTME, Apollo Labs Division (L6) | 0 to $1M ARR in <10 months |
+| **Swif.ai**<br><sub>YC W24 · Seed · AI-native MDM + Compliance SaaS</sub> | Head of Sales (Founding AE) | 200% ARR growth · turned cash-flow positive |
+| **CIENCE**<br><sub>$40M ARR · GTM SaaS + Managed SDR Services · Global</sub> | Mid-Market Account Manager | #1 Revenue Driver out of 10 |
+| **UpKeep**<br><sub>Series B · $48.8M raised · CMMS SaaS · Insight Partners + Emergence Capital</sub> | Strategic BDR — Key Accounts | $1.2M+ pipeline · #1 BDR Nov '21 |
 
 Full story: [Interactive Resume](https://jaxlieuresume.lovable.app/)
 
