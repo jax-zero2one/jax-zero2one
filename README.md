@@ -72,7 +72,7 @@ Most candidates send a PDF. This is what shipped instead.
 
 ## Other Builds
 
-**Account Intel 360** *(private).* Drop a list of contacts and a goal. Apollo enriches the room. Claude maps who matters, surfaces a POV brief for the first call, flags the top 3 company challenges with seller fit scores, and runs a Golden Six read on every person. Click any pattern and the chart highlights the related nodes in real time — synchronized pulse rings, connecting arcs, everything else dims. Built on Next.js 16, TypeScript, Supabase, Apollo REST, and Anthropic SDK.
+**Account Intel 360** *(private).* Drop a list of contacts and a goal. Apollo enriches the room. Claude maps who matters, surfaces a POV brief for the first call, flags the top 3 company challenges with seller fit scores, and runs a Golden Six read on every person. Click any pattern and the entire scene shifts: highlighted nodes stay full brightness with amber pulse rings and connecting arcs, while the hub node, radar sweep, and every connecting line drop to near-invisible. Built on Next.js 16, TypeScript, Supabase, Apollo REST, and Anthropic SDK.
 
 **Apollo PowerUp Prompt Engine** — Multi-file outreach system with conditional routing by title and headcount, OPS framework, 120-word cap. Used to scale Apollo Labs outbound.
 
