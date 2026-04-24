@@ -53,7 +53,7 @@ $20M+ pipeline generated. $1.3M+ ARR closed. Zero-to-one is where I live.
 
 | Role | Company | Duration |
 |------|---------|----------|
-| **Founding GTM Engineer and Sr. Account Manager (L6)** | Apollo Labs — Apollo.io | Sep 2024 — Jun 2025 |
+| **Founding Sr. AE + GTME, Apollo Labs Division (L6)** | Apollo Labs — Apollo.io | Sep 2024 — Jun 2025 |
 | **Founding AE / Head of Sales** | Swif.ai — YC W24 | Jan 2024 — Sep 2024 |
 | **Mid-Market Account Manager** | CIENCE | Jun 2022 — Aug 2023 |
 | **Strategic BDR — Key Accounts** | UpKeep | Sep 2021 — Jun 2022 |
@@ -64,7 +64,7 @@ $20M+ pipeline generated. $1.3M+ ARR closed. Zero-to-one is where I live.
 
 ---
 
-### Apollo Labs — Apollo.io | Founding GTM Engineer and Sr. Account Manager
+### Apollo Labs — Apollo.io | Founding Sr. AE + GTME, Apollo Labs Division (L6)
 **Sep 2024 — Jun 2025**
 
 Recruited post-Series D ($250M / $1.6B valuation) to architect and launch Apollo Labs, Apollo's AI-powered outbound managed services division from zero. Sold to CEOs, Founders, VP of Sales, and Marketing leaders at B2B SaaS companies. Owned the GTM build, revenue line, and two direct reports.
