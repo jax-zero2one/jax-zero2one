@@ -72,7 +72,7 @@ Most candidates send a PDF. This is what shipped instead.
 
 ## Other Builds
 
-**Account Intelligence 360** — Enriches any company domain via Apollo API + Claude and renders an interactive org diagram. Pre-call intel at 10x speed. In active development.
+**Account Intel 360** *(private).* Drop a list of contacts and a goal. Apollo enriches the room. Claude maps who matters, surfaces a POV brief for the first call, flags the top 3 company challenges with seller fit scores, and runs a Golden Six read on every person. Built on Next.js 16, TypeScript, Supabase, Apollo REST, and Anthropic SDK.
 
 **Apollo PowerUp Prompt Engine** — Multi-file outreach system with conditional routing by title and headcount, OPS framework, 120-word cap. Used to scale Apollo Labs outbound.
 
