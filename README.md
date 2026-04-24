@@ -84,9 +84,9 @@ Most candidates send a PDF. This is what shipped instead.
 
 | Company | Role | Headline |
 |---------|------|----------|
-| Apollo Labs (Apollo.io) | Founding Sr. AE + GTME, Apollo Labs Division (L6) | $1M ARR in 10 months |
-| Swif.ai (YC W24) | Head of Sales, Founding AE | 200% ARR growth |
-| CIENCE | Mid-Market AE | #1 Revenue Driver (1 of 10) |
+| Apollo Labs (Apollo.io) | Founding Sr. AE + GTME, Apollo Labs Division (L6) | 0 to 1M <10 months |
+| Swif.ai (YC W24) | Head of Sales (Founding AE) | 200% ARR growth |
+| CIENCE | Mid-Market Account Manager | #1 Revenue Driver (1 of 10) |
 | UpKeep | Strategic BDR | $1.2M+ pipeline sourced |
 
 Full story: [Interactive Resume](https://jaxlieuresume.lovable.app/)
